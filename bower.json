@@ -6,7 +6,7 @@
     "Pathgather <tech@pathgather.com>"
   ],
   "description": "A nice loading screen for your SPA while users wait for complete initialization",
-  "main": ["build/please-wait.css", "build/please-wait.js"],
+  "main": ["build/please-wait.css", "build/please-wait.js","build/loading_animation.css"],
   "moduleType": [
     "globals"
   ],
