@@ -4,7 +4,9 @@ A simple library to show your users a beautiful splash page while your applicati
 
 Documentation and Demo
 ---------------------
-Documentation and demo can be found [here](http://pathgather.github.io/please-wait/).
+Documentation and demo can be found [here](http://pathgather.github.io/please-wait/).  
+
+取得Demo css檔     
 
 About Pathgather
 ---------------------
